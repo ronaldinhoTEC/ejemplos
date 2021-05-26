@@ -1,3 +1,4 @@
+# comentario agregado desde git hub
 class Auto:
     def __init__(self,marca='default',modelo='default',placa='000000'):
         print(f'Propiedades de coche')
